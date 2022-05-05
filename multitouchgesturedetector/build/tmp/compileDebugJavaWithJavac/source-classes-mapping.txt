@@ -1,0 +1,6 @@
+com/dinuscxj/gesture/BuildConfig.java
+ com.dinuscxj.gesture.BuildConfig
+com/dinuscxj/gesture/MultiTouchGestureDetector.java
+ com.dinuscxj.gesture.MultiTouchGestureDetector
+ com.dinuscxj.gesture.MultiTouchGestureDetector$OnMultiTouchGestureListener
+ com.dinuscxj.gesture.MultiTouchGestureDetector$SimpleOnMultiTouchGestureListener
